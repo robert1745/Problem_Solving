@@ -1,0 +1,1 @@
+{"name":"Local: Two_sets","url":"d:\\Problems_Solving\\CSES\\Two_sets.cpp","tests":[{"id":1736177542674,"input":"7","output":"YES\n4\n1 2 4 7\n3\n3 5 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problems_Solving\\CSES\\Two_sets.cpp","group":"local","local":true}
